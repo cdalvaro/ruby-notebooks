@@ -13,8 +13,8 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
 ## Notebooks
 
 - [Quickstart - Ruby in Twenty Minutes](notebooks/Quickstart.ipynb)
-- [Names in Ruby](notebooks/NamesInRuby.ipynb)
-- [Numbers in Ruby](notebooks/NumbersInRuby.ipynb)
+- [Names](notebooks/Names.ipynb)
+- [Numbers](notebooks/Numbers.ipynb)
 
 ## Acknowledgments
 

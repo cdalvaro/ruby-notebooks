@@ -15,6 +15,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
 - [Quickstart - Ruby in Twenty Minutes](notebooks/Quickstart.ipynb)
 - [Names](notebooks/Names.ipynb)
 - [Numbers](notebooks/Numbers.ipynb)
+- [Methods](notebooks/Methods.ipynb)
 
 ## Acknowledgments
 

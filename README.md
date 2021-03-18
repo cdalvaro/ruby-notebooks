@@ -16,13 +16,14 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
 - [Names](notebooks/Names.ipynb)
 - [Numbers](notebooks/Numbers.ipynb)
 - [Methods](notebooks/Methods.ipynb)
+- [Strings](notebooks/Strings.ipynb)
 
 ## Acknowledgments
 
 Most of the content of these notebooks has been extracted from online documentation sites such as:
 
 - https://www.ruby-lang.org
-- https://rubylearning.com
+- http://rubylearning.com
 
 [ruby_release_notes]: https://www.ruby-lang.org/en/news/2020/12/25/ruby-3-0-0-released/
 [ruby_badge]: https://img.shields.io/badge/Ruby-3.0-CC342D?logo=ruby&logoColor=CC342D

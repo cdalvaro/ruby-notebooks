@@ -17,6 +17,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
 - [Numbers](notebooks/Numbers.ipynb)
 - [Methods](notebooks/Methods.ipynb)
 - [Strings](notebooks/Strings.ipynb)
+- [Flow Control](notebooks/FlowControl.ipynb)
 
 ## Acknowledgments
 

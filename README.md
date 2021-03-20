@@ -12,12 +12,13 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
 
 ## Notebooks
 
-- [Quickstart - Ruby in Twenty Minutes](notebooks/Quickstart.ipynb)
-- [Names](notebooks/Names.ipynb)
-- [Numbers](notebooks/Numbers.ipynb)
-- [Methods](notebooks/Methods.ipynb)
-- [Strings](notebooks/Strings.ipynb)
-- [Flow Control](notebooks/FlowControl.ipynb)
+  1. [Quickstart - Ruby in Twenty Minutes](notebooks/Quickstart.ipynb)
+  2. [Names](notebooks/Names.ipynb)
+  3. [Numbers](notebooks/Numbers.ipynb)
+  4. [Methods](notebooks/Methods.ipynb)
+  5. [Strings](notebooks/Strings.ipynb)
+  6. [Flow Control](notebooks/FlowControl.ipynb)
+  7. [Blocks](notebooks/Blocks.ipynb)
 
 ## Acknowledgments
 

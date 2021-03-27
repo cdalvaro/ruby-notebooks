@@ -19,6 +19,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
   5. [Strings](notebooks/Strings.ipynb)
   6. [Flow Control](notebooks/FlowControl.ipynb)
   7. [Blocks](notebooks/Blocks.ipynb)
+  8. [Arrays](notebooks/Arrays.ipynb)
 
 ## Acknowledgments
 

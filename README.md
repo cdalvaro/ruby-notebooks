@@ -23,6 +23,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
   9. [Ranges](notebooks/Ranges.ipynb)
   10. [Symbols](notebooks/Symbols.ipynb)
   11. [Hashes](notebooks/Hashes.ipynb)
+  12. [Random Numbers](notebooks/RandomNumbers.ipynb)
 
 ## Acknowledgments
 

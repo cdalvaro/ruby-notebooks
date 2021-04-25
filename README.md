@@ -24,6 +24,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
   10. [Symbols](notebooks/Symbols.ipynb)
   11. [Hashes](notebooks/Hashes.ipynb)
   12. [Random Numbers](notebooks/RandomNumbers.ipynb)
+  13. [Read/Write Text Files](notebooks/ReadWriteTextFiles.ipynb)
 
 ## Acknowledgments
 

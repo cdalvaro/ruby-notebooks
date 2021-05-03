@@ -26,6 +26,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
   12. [Random Numbers](notebooks/RandomNumbers.ipynb)
   13. [Read/Write Text Files](notebooks/ReadWriteTextFiles.ipynb)
   14. [Regular Expressions](notebooks/RegularExpressions.ipynb)
+  15. [Classes](notebooks/Classes.ipynb)
 
 ## Acknowledgments
 

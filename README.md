@@ -27,6 +27,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
   13. [Read/Write Text Files](notebooks/ReadWriteTextFiles.ipynb)
   14. [Regular Expressions](notebooks/RegularExpressions.ipynb)
   15. [Classes](notebooks/Classes.ipynb)
+  16. [Method Missing](notebooks/MethodMissing.ipynb)
 
 ## Acknowledgments
 

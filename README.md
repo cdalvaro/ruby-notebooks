@@ -28,6 +28,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
   14. [Regular Expressions](notebooks/RegularExpressions.ipynb)
   15. [Classes](notebooks/Classes.ipynb)
   16. [Method Missing](notebooks/MethodMissing.ipynb)
+  17. [Procs](notebooks/Procs.ipynb)
 
 ## Acknowledgments
 

@@ -30,6 +30,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
   16. [Method Missing](notebooks/MethodMissing.ipynb)
   17. [Procs](notebooks/Procs.ipynb)
   18. [Including Other Files](notebooks/IncludingOtherFiles.ipynb)
+  19. [Open Classes](notebooks/OpenClasses.ipynb)
 
 ## Acknowledgments
 

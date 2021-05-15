@@ -32,6 +32,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
   18. [Including Other Files](notebooks/IncludingOtherFiles.ipynb)
   19. [Open Classes](notebooks/OpenClasses.ipynb)
   20. [Inheritance](notebooks/Inheritance.ipynb)
+  21. [Overriding Methods](notebooks/OverridingMethods.ipynb)
 
 ## Acknowledgments
 

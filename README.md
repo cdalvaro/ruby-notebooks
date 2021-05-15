@@ -31,6 +31,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
   17. [Procs](notebooks/Procs.ipynb)
   18. [Including Other Files](notebooks/IncludingOtherFiles.ipynb)
   19. [Open Classes](notebooks/OpenClasses.ipynb)
+  20. [Inheritance](notebooks/Inheritance.ipynb)
 
 ## Acknowledgments
 

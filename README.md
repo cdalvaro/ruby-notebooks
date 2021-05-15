@@ -33,6 +33,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
   19. [Open Classes](notebooks/OpenClasses.ipynb)
   20. [Inheritance](notebooks/Inheritance.ipynb)
   21. [Overriding Methods](notebooks/OverridingMethods.ipynb)
+  22. [Overloading Methods](notebooks/OverloadingMethods.ipynb)
 
 ## Acknowledgments
 

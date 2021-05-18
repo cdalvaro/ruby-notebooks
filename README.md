@@ -36,6 +36,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
   22. [Overloading Methods](notebooks/OverloadingMethods.ipynb)
   23. [Access Control](notebooks/AccessControl.ipynb)
   24. [Exceptions](notebooks/Exceptions.ipynb)
+  25. [Logging](notebooks/Logging.ipynb)
 
 ## Acknowledgments
 

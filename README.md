@@ -38,6 +38,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
   24. [Exceptions](notebooks/Exceptions.ipynb)
   25. [Logging](notebooks/Logging.ipynb)
   26. [Time Class](notebooks/TimeClass.ipynb)
+  27. [Duck Typing](notebooks/DuckTyping.ipynb)
 
 ## Acknowledgments
 

@@ -39,6 +39,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
   25. [Logging](notebooks/Logging.ipynb)
   26. [Time Class](notebooks/TimeClass.ipynb)
   27. [Duck Typing](notebooks/DuckTyping.ipynb)
+  28. [SyntacticSugar](notebooks/SyntacticSugar.ipynb)
 
 ## Acknowledgments
 

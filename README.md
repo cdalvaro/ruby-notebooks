@@ -40,7 +40,8 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
   26. [Time Class](notebooks/TimeClass.ipynb)
   27. [Duck Typing](notebooks/DuckTyping.ipynb)
   28. [Syntactic Sugar](notebooks/SyntacticSugar.ipynb)
-  29. [Mutable and Immutable Objects](notebooks/MutableAndImmutableObjects.ipynb)∫
+  29. [Mutable and Immutable Objects](notebooks/MutableAndImmutableObjects.ipynb)
+  30. [Object Serialization](notebooks/ObjectSerialization.ipynb)
   
 ## Acknowledgments
 

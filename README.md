@@ -42,6 +42,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
   28. [Syntactic Sugar](notebooks/SyntacticSugar.ipynb)
   29. [Mutable and Immutable Objects](notebooks/MutableAndImmutableObjects.ipynb)
   30. [Object Serialization](notebooks/ObjectSerialization.ipynb)
+  31. [Modules Mixins](notebooks/ModulesMixins.ipynb)
   
 ## Acknowledgments
 

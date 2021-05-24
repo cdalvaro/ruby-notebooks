@@ -43,6 +43,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
   29. [Mutable and Immutable Objects](notebooks/MutableAndImmutableObjects.ipynb)
   30. [Object Serialization](notebooks/ObjectSerialization.ipynb)
   31. [Modules Mixins](notebooks/ModulesMixins.ipynb)
+  32. [Self](notebooks/Self.ipynb)
   
 ## Acknowledgments
 

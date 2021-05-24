@@ -44,6 +44,7 @@ But if you prefer using Jupyter, you can follow the [official documentation](htt
   30. [Object Serialization](notebooks/ObjectSerialization.ipynb)
   31. [Modules Mixins](notebooks/ModulesMixins.ipynb)
   32. [Self](notebooks/Self.ipynb)
+  33. [Constants](notebooks/Constants.ipynb)
   
 ## Acknowledgments
 
